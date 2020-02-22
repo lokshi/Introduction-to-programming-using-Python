@@ -13,7 +13,7 @@ turtle.right(90)
 turtle.pendown()
 
 turtle.begin_fill()
-turtle.fillcolor("yellow")
+turtle.fillcolor("red")
 turtle.circle(200, steps = 6) # Draw a hexagon
 turtle.end_fill()
 
